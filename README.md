@@ -1,1 +1,4 @@
-# flutter-tik
+# Readme
+
+Tic-Tac-Toe game in flutter
+
